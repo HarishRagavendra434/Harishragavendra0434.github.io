@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;max-width:900px;margin:auto;padding:20px;line-height:1.6;background:#f4f8fc}
+header{text-align:center;padding:40px;background:#0b3d91;color:#fff;border-radius:10px}
+section{background:#fff;margin:20px 0;padding:20px;border-radius:8px}
+.btn{display:inline-block;margin:8px;padding:10px 16px;background:#fff;color:#0b3d91;text-decoration:none;border-radius:6px;font-weight:bold}
